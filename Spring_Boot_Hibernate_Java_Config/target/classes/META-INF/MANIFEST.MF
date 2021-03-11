@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: Spring_Boot_Hibernate_Java_Config
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: saikumar.yadda
+Implementation-Vendor-Id: Spring_Boot_Hibernate_Java_Config
+Build-Jdk: 1.8.0_181
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
